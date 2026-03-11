@@ -7,7 +7,8 @@
 📍 Tampa, FL  
 🎓 M.S. Computer Science @ USF (GPA: 3.95/4.0 · May 2026)  
 💻 3.7+ Years Production Experience · Optum · BNP Paribas · USF  
-🤖 Building: Agentic AI · LangGraph Pipelines · RAG Systems  
+🔨 Shipping: Enterprise Microservices · Cloud-Native Platforms · Full Stack Apps  
+🤖 Exploring: Agentic AI · LangGraph Pipelines · RAG Systems · Local LLMs  
 
 [![Email](https://img.shields.io/badge/Email-krishnakoushiku%40gmail.com-red?logo=gmail&logoColor=white)](mailto:krishnakoushiku@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/krishna-koushik-unnam-a952741b5)
