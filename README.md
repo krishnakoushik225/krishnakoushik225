@@ -15,7 +15,7 @@
 
 <!-- Social badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-krishnakoushik--portfolio.vercel.app-9D4EDD?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app/resume.pdf)
 
 <br/>
 
