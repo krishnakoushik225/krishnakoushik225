@@ -1,37 +1,36 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Krishna%20Koushik%20Unnam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=16&descColor=C084FC" />
+<!-- FIX 1: Purple gradient wave header — matches portfolio brand color exactly -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:9D4EDD,100:C084FC&height=130&section=header&text=Krishna%20Koushik%20Unnam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=62&descSize=16&descColor=E9D5FF" />
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=720&lines=Building+reliable+full-stack+systems+that+ship.;LangGraph+%7C+RAG+%7C+PEFT+%7C+Azure+AKS+%7C+Kafka;3.7%2B+yrs+%7C+Optum+%C2%B7+BNP+Paribas+%C2%B7+USF;Open+to+SWE+%2F+AI+Engineer+roles+%E2%80%94+June+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing animation — brand purple -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=740&lines=Building+reliable+full-stack+systems+that+ship.;LangGraph+%7C+RAG+Pipelines+%7C+PEFT+%7C+Azure+AKS+%7C+Kafka;.NET+%7C+Spring+Boot+%7C+React+%7C+TypeScript+%7C+Python;M.S.+CS+%40+USF+%C2%B7+3.95+GPA+%7C+Open+to+SWE+%2F+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Coding GIF — centered, constrained -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding" />
+<!-- Coding GIF — clean, professional, centered -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding" />
 
 <br/><br/>
 
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-krishnakoushik--portfolio.vercel.app-9D4EDD?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app/resume.pdf)
+<!-- Badge row 1 — portfolio + resume -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-krishnakoushik--portfolio.vercel.app-9D4EDD?style=for-the-badge)]([https://krishnakoushik-portfolio.vercel.app](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app))
+[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
 
 <br/>
 
+<!-- Badge row 2 — social -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-koushik-unnam-a952741b5)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakoushiku@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakoushik225)
 
 <br/>
 
-<!-- Status badges -->
+<!-- Status pills -->
 ![Available](https://img.shields.io/badge/🟢_Available-June_2026-22C55E?style=flat-square)
 ![GPA](https://img.shields.io/badge/M.S._CS_@_USF-3.95%2F4.0_GPA-006747?style=flat-square)
 ![XP](https://img.shields.io/badge/Enterprise_XP-3.7%2B_Years-7C3AED?style=flat-square)
 ![Roles](https://img.shields.io/badge/Open_To-SWE_·_AI%2FML_·_Full--Stack-0284C7?style=flat-square)
-
-<!-- Profile views — linked to profile -->
 [![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=flat-square&color=9D4EDD&label=👁️+Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
 
 </div>
@@ -50,9 +49,9 @@ On the AI side, I'm more interested in correctness and explainability than bench
 
 ## Tech Stack
 
-<!-- Animated skill icons — colorful, renders as animated SVG icon grid -->
 <div align="center">
 
+<!-- Animated colorful skill icon grid -->
 [![Skills](https://skillicons.dev/icons?i=cs,java,python,ts,js,cpp,react,angular,nextjs,tailwind,dotnet,spring,fastapi,django,postgres,redis,kafka,docker,kubernetes,azure,aws,git,linux,figma,postman,pytorch,vscode,idea&theme=dark&perline=14)](https://skillicons.dev)
 
 </div>
@@ -77,15 +76,28 @@ On the AI side, I'm more interested in correctness and explainability than bench
 
 ---
 
-## What I've Shipped
+## Impact at a Glance
 
-<!-- Impact cards — shows real engineering outcomes instead of raw GitHub metrics -->
+<!-- NEW: Visual metric banner — shows production numbers as scannable highlights -->
+<div align="center">
+
+| 🏥 Healthcare | 🎓 Academic | 🏦 Fintech | 🤖 AI Research |
+|:---:|:---:|:---:|:---:|
+| **3,500+** events/min Kafka | **5,000+** daily users | **30%** fewer errors | **F1: 0.589** ECG benchmark |
+| **35%** MTTR reduction | **820ms→310ms** API | **20 hrs/week** saved | **60%** fewer parameters |
+| **100K+** patient records | **99.6%** uptime | 4 trading desks | **2.1×** train efficiency |
+
+</div>
+
+---
+
+## What I've Shipped
 
 ```
 🏥  Optum        Kafka pipelines at 3,500+ events/min · MTTR reduced 35% · 100K+ patient records
 🎓  USF          5,000+ daily users · 820ms→310ms API latency · 99.6% uptime · 60% faster page load
 🏦  BNP Paribas  4 trading desks · 30% fewer reconciliation errors · 20 hrs/week saved
-🧠  ECG-PEFT     Wav2Vec2+LoRA: F1 0.589 / AUC 0.620 · 60% fewer trainable parameters vs full fine-tuning
+🧠  ECG-PEFT     Wav2Vec2+LoRA: F1 0.589 / AUC 0.620 · 60% fewer trainable parameters
 🤖  ResearchFlow  Cited answers in <30s · Stateful LangGraph retry on confidence threshold
 🔒  ContextFlow  100% on-device inference · Zero cloud API calls · Sub-second on consumer hardware
 ```
@@ -96,14 +108,14 @@ On the AI side, I'm more interested in correctness and explainability than bench
 
 <div align="center">
 
-<!-- AI pipeline GIF — relevant to LangGraph work, placed contextually -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="AI agent pipeline" />
+<!-- FIX 2: Replaced generic code GIF with relevant neural network / AI GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVtMGNwMzN3dDFqbHlzbGszamhxYzFuY2R1bjNudDZwdm50aGFmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" alt="AI pipeline" />
 
 </div>
 
 ### [ResearchFlow AI](https://github.com/krishnakoushik225/langgraph-research-agent) — Agentic LLM Research Platform
-[![Stars](https://img.shields.io/github/stars/krishnakoushik225/langgraph-research-agent?style=flat-square&color=9D4EDD)](https://github.com/krishnakoushik225/langgraph-research-agent)
-[![Language](https://img.shields.io/github/languages/top/krishnakoushik225/langgraph-research-agent?style=flat-square&color=3776AB)](https://github.com/krishnakoushik225/langgraph-research-agent)
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/langgraph-research-agent?style=flat-square&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/langgraph-research-agent?style=flat-square&color=9D4EDD)
 
 Self-correcting LangGraph agent: Planner → Decomposer → Search → Verifier → Synthesizer. Delivers citation-grounded answers in under 30 seconds via stateful graphs with conditional retry edges on confidence-scored results — not possible in a linear chain.
 
@@ -112,7 +124,8 @@ Self-correcting LangGraph agent: Planner → Decomposer → Search → Verifier 
 ---
 
 ### [ECG-PEFT Bench](https://github.com/krishnakoushik225/ecg-peft-benchmark) — Medical AI Benchmarking
-[![Stars](https://img.shields.io/github/stars/krishnakoushik225/ecg-peft-benchmark?style=flat-square&color=9D4EDD)](https://github.com/krishnakoushik225/ecg-peft-benchmark)
+![Stars](https://img.shields.io/github/stars/krishnakoushik225/ecg-peft-benchmark?style=flat-square&color=9D4EDD)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/ecg-peft-benchmark?style=flat-square&color=9D4EDD)
 
 Benchmarked 4 PEFT strategies across 3 cardiac foundation models on 10K+ ECG segments. **Wav2Vec2 + LoRA** achieved best F1/AUC (0.589 / 0.620) with 60% fewer trainable parameters — structured model-selection report for clinical AI pipeline decisions.
 
@@ -121,7 +134,8 @@ Benchmarked 4 PEFT strategies across 3 cardiac foundation models on 10K+ ECG seg
 ---
 
 ### [DocuMind](https://github.com/krishnakoushik225/DocuMind) — RAG Document Intelligence
-[![Stars](https://img.shields.io/github/stars/krishnakoushik225/DocuMind?style=flat-square&color=9D4EDD)](https://github.com/krishnakoushik225/DocuMind)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/DocuMind?style=flat-square&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/DocuMind?style=flat-square&color=3776AB)
 
 Pinecone-backed RAG platform with GPT-4 generation and citation grounding — every answer surfaces the exact source passage for auditable, verifiable multi-document Q&A with sub-second retrieval latency.
 
@@ -130,7 +144,7 @@ Pinecone-backed RAG platform with GPT-4 generation and citation grounding — ev
 ---
 
 ### [ContextFlow AI](https://github.com/krishnakoushik225/contextflow-ai) — Privacy-First Local LLM Chrome Extension
-[![Stars](https://img.shields.io/github/stars/krishnakoushik225/contextflow-ai?style=flat-square&color=9D4EDD)](https://github.com/krishnakoushik225/contextflow-ai)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/contextflow-ai?style=flat-square&color=9D4EDD)
 
 100% on-device inference via Ollama + Llama 3.2 — zero cloud API calls, no data leaves the browser. Manifest V3 service worker as persistent agent runtime with dynamic tool routing and sub-second response times.
 
@@ -140,7 +154,7 @@ Pinecone-backed RAG platform with GPT-4 generation and citation grounding — ev
 
 ### [APSRTC Duty Portal](https://github.com/krishnakoushik225/APSRTC-Duty-Management-Portal) · [GenDiff-PEFT](https://github.com/krishnakoushik225/GenDiff-PEFT-Efficient-Conditional-Diffusion-Optimization) · [CLAP-AudioLDM](https://github.com/krishnakoushik225/CLAP-Optimized-Text-to-Audio-Generation-AudioLDM-)
 
-Enterprise workforce management for 500+ employees with optimistic locking to prevent concurrent shift-assignment races. **GenDiff-PEFT** — 2.1× training efficiency, 60% fewer parameters. **CLAP-AudioLDM** — 15%+ CLAP alignment improvement via multi-candidate selection.
+Workforce management for 500+ employees with optimistic locking for concurrent shift-assignment safety. **GenDiff-PEFT** — 2.1× training efficiency, 60% fewer parameters, FID within 8% of full fine-tuning. **CLAP-AudioLDM** — 15%+ CLAP alignment improvement via multi-candidate quality-aware selection.
 
 ---
 
@@ -168,36 +182,31 @@ Enterprise workforce management for 500+ employees with optimistic locking to pr
 
 <div align="center">
 
-<!-- Activity graph only — shows recent momentum, no embarrassing aggregate stats -->
+<!-- Activity graph — purple branded, full width -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakoushik225&bg_color=0b1020&color=9D4EDD&line=9D4EDD&point=C084FC&area=true&area_color=9D4EDD&hide_border=true&title_color=9D4EDD" />
 
 </div>
 
-<!-- Snake — shows once GitHub Actions is set up -->
-<div align="center">
-
+<!-- Contribution snake — hidden until action is set up -->
 <details>
-<summary><b>Contribution Snake</b> — <a href="https://github.com/Platane/snk">set up action to activate</a></summary>
-
+<summary><b>Contribution Snake</b> — <a href="https://github.com/Platane/snk">set up the action to activate</a></summary>
 <br/>
-
-![Snake](https://github.com/krishnakoushik225/krishnakoushik225/blob/output/github-contribution-grid-snake-dark.svg)
-
-</details>
-
+<div align="center">
+<img src="https://github.com/krishnakoushik225/krishnakoushik225/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
+</details>
 
 ---
 
-<!-- Animated wave footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" />
+<!-- FIX 1: Purple gradient wave footer matching the header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:9D4EDD,100:7C3AED&height=100&section=footer&animation=fadeIn" />
 
 <div align="center">
 
 **Open to SWE · AI/ML Engineer · Full-Stack Engineer roles — US-wide, available June 2026**
 
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app/resume.pdf)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=for-the-badge&color=9D4EDD&label=Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
 
