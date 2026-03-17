@@ -196,7 +196,7 @@ Enterprise workforce management for 500+ employees with optimistic locking to pr
 
 **Open to SWE · AI/ML Engineer · Full-Stack Engineer roles — US-wide, available June 2026**
 
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://krishnakoushik-portfolio.vercel.app)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
 [![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=for-the-badge&color=9D4EDD&label=Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
