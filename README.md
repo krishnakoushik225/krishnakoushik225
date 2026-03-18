@@ -187,14 +187,9 @@ Workforce management for 500+ employees with optimistic locking for concurrent s
 
 </div>
 
-<!-- Contribution snake — hidden until action is set up -->
-<details>
-<summary><b>Contribution Snake</b> — <a href="https://github.com/Platane/snk">set up the action to activate</a></summary>
-<br/>
 <div align="center">
-<img src="https://github.com/krishnakoushik225/krishnakoushik225/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/krishnakoushik225/krishnakoushik225/output/github-snake-dark.svg" alt="contribution snake" />
 </div>
-</details>
 
 ---
 
