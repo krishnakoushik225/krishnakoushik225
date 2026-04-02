@@ -27,7 +27,6 @@
 <br/>
 
 <!-- Status pills -->
-![Available](https://img.shields.io/badge/🟢_Available-June_2026-22C55E?style=flat-square)
 ![GPA](https://img.shields.io/badge/M.S._CS_@_USF-3.95%2F4.0_GPA-006747?style=flat-square)
 ![XP](https://img.shields.io/badge/Enterprise_XP-3.7%2B_Years-7C3AED?style=flat-square)
 ![Roles](https://img.shields.io/badge/Open_To-SWE_·_AI%2FML_·_Full--Stack-0284C7?style=flat-square)
