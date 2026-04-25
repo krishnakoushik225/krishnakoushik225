@@ -161,10 +161,9 @@ Workforce management for 500+ employees with optimistic locking for concurrent s
 
 | Company | Role | Period |
 |---|---|---|
-| **University of South Florida** | Application Developer — .NET · React · Azure | Aug 2024 – Present |
-| **Optum (UnitedHealth Group)** | Associate Software Developer — .NET · Angular · Azure | Aug 2023 – Aug 2024 |
-| **BNP Paribas** | Software Engineer — Spring Boot · React · AWS | Feb 2023 – Jul 2023 |
-| **Rinex Private Limited** | Full Stack Intern — Spring Boot · React | Jun 2021 – Dec 2021 |
+| **University of South Florida** | Application Developer — .NET · React · Azure | Sep 2024 – Present |
+| **Optum (UnitedHealth Group)** | Associate Software Developer — .NET · Angular · Azure | Jul 2023 – Aug 2024 |
+| **BNP Paribas** | Software Engineer — Spring Boot · React · AWS | Jun 2022 – Jul 2023 |
 
 ---
 
