@@ -196,7 +196,7 @@ Workforce management for 500+ employees with optimistic locking for concurrent s
 
 <div align="center">
 
-**Open to SWE · AI/ML Engineer · Full-Stack Engineer roles — US-wide, available June 2026**
+**Open to SWE · AI/ML Engineer · Full-Stack Engineer roles — US-wide**
 
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
 [![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app/resume.pdf)
