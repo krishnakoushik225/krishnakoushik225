@@ -28,7 +28,7 @@
 
 <!-- Status pills -->
 ![GPA](https://img.shields.io/badge/M.S._CS_@_USF-3.89%2F4.0_GPA-006747?style=flat-square)
-![XP](https://img.shields.io/badge/Enterprise_XP-3.7%2B_Years-7C3AED?style=flat-square)
+![XP](https://img.shields.io/badge/Enterprise_XP-4%2B_Years-7C3AED?style=flat-square)
 ![Roles](https://img.shields.io/badge/Open_To-SWE_·_AI%2FML_·_Full--Stack-0284C7?style=flat-square)
 [![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=flat-square&color=9D4EDD&label=👁️+Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
 
