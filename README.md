@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:9D4EDD,100:C084FC&height=130&section=header&text=Krishna%20Koushik%20Unnam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20AI/ML%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=62&descSize=16&descColor=E9D5FF" />
 
 <!-- Typing animation — brand purple -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=740&lines=Building+reliable+full-stack+systems+that+ship.;LangGraph+%7C+RAG+Pipelines+%7C+PEFT+%7C+Azure+AKS+%7C+Kafka;Spring+Boot+%7C+.NET+%7C+React+%7C+TypeScript+%7C+Python;M.S.+CS+%40+USF+%C2%B7+3.95+GPA+%7C+Open+to+SWE+%2F+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=740&lines=Building+reliable+full-stack+systems+that+ship.;LangGraph+%7C+RAG+Pipelines+%7C+PEFT+%7C+Azure+AKS+%7C+Kafka;Spring+Boot+%7C+.NET+%7C+React+%7C+TypeScript+%7C+Python;M.S.+CS+%40+USF+%C2%B7+3.89+GPA+%7C+Open+to+SWE+%2F+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 
 <!-- Status pills -->
-![GPA](https://img.shields.io/badge/M.S._CS_@_USF-3.95%2F4.0_GPA-006747?style=flat-square)
+![GPA](https://img.shields.io/badge/M.S._CS_@_USF-3.89%2F4.0_GPA-006747?style=flat-square)
 ![XP](https://img.shields.io/badge/Enterprise_XP-3.7%2B_Years-7C3AED?style=flat-square)
 ![Roles](https://img.shields.io/badge/Open_To-SWE_·_AI%2FML_·_Full--Stack-0284C7?style=flat-square)
 [![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=flat-square&color=9D4EDD&label=👁️+Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
@@ -171,7 +171,7 @@ Workforce management for 500+ employees with optimistic locking for concurrent s
 
 | Degree | Institution | GPA |
 |---|---|---|
-| M.S. Computer Science & Engineering | University of South Florida | **3.95 / 4.0** |
+| M.S. Computer Science & Engineering | University of South Florida | **3.89 / 4.0** |
 | B.Tech. Computer Science & Engineering | Amrita Vishwa Vidyapeetham | 8.31 / 10 |
 
 ---
