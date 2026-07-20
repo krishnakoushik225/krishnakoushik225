@@ -151,54 +151,97 @@ I focus on combining advanced AI research with reliable software engineering to 
 
 ## Selected AI Projects
 
-### [ResearchFlow AI](https://github.com/krishnakoushik225/langgraph-research-agent) — Agentic Research Platform
+### [Helix](https://github.com/krishnakoushik225/helix) — Production-Grade AI Inference Gateway
+
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/helix?style=flat-square\&color=00ADD8)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/helix?style=flat-square\&color=9D4EDD)
+
+A production-grade LLM gateway that provides one secure interface for OpenAI, Ollama, and Anthropic models. It combines score-based provider routing, circuit-breaker fallback, pgvector semantic caching, per-tenant JWT authentication, Redis rate limiting, SSE token streaming, structured request logging, and Prometheus observability.
+
+The gateway was deployed on Fly.io and validated through a cache-warmed k6 benchmark with **3,885 requests, zero errors, 100 concurrent virtual users, 18.43 requests per second, and 567 ms p95 latency**. A React dashboard provides live visibility into latency, token usage, provider health, cache performance, and estimated inference cost.
+
+`Go` `React` `TypeScript` `OpenAI` `Ollama` `Anthropic` `PostgreSQL` `pgvector` `Redis` `Docker` `Prometheus` `k6`
+
+---
+
+### [Multi-Agent Code Repair](https://github.com/krishnakoushik225/multi-agent-code-repair) — Autonomous Issue-to-Patch Engineering System
+
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/multi-agent-code-repair?style=flat-square\&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/multi-agent-code-repair?style=flat-square\&color=9D4EDD)
+
+A stateful multi-agent software-repair system that converts a GitHub issue into a validated code patch. Specialized agents research the repository, identify relevant files, plan a minimal change, generate structured search-and-replace edits, and validate the result inside an isolated Docker environment.
+
+The workflow pins every run to a specific commit, grounds patches in verbatim source code, executes pytest, Ruff, and Mypy checks, retries using structured validation feedback, persists progress through SQLite checkpointing, and can optionally open a GitHub pull request. A real-world Click issue run completed with **1,436 tests passing, clean linting and type checks, zero retries, and approximately $0.35 in model cost**.
+
+`Python` `LangGraph` `LiteLLM` `Docker` `PyGithub` `Pydantic` `pytest` `Ruff` `Mypy` `SQLite`
+
+---
+
+### [ResearchFlow AI](https://github.com/krishnakoushik225/langgraph-research-agent) — Self-Correcting Agentic Research Platform
 
 ![Language](https://img.shields.io/github/languages/top/krishnakoushik225/langgraph-research-agent?style=flat-square\&color=3776AB)
 ![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/langgraph-research-agent?style=flat-square\&color=9D4EDD)
 
-An agentic research platform built with stateful LangGraph workflows. It coordinates planning, query decomposition, retrieval, verification, and synthesis through conditional workflow transitions.
+A production-oriented agentic research system that decomposes complex questions, retrieves web evidence, evaluates evidence quality, and synthesizes citation-grounded answers.
 
-`Python` `LangGraph` `FastAPI` `RAG` `React` `TypeScript` `Ollama`
+Its LangGraph workflow coordinates Planner, Decomposer, Search, Verifier, and Synthesizer nodes. When retrieved evidence falls below a confidence threshold, the verifier routes execution back to search with a refined query instead of generating an answer from weak context. The application exposes the workflow through FastAPI and provides a React interface with citations and a visible execution trace.
+
+`Python` `LangGraph` `FastAPI` `Tavily` `Ollama` `React` `TypeScript` `Agentic AI`
 
 ---
 
-### [ECG-PEFT Bench](https://github.com/krishnakoushik225/ecg-peft-benchmark) — Efficient Medical AI Benchmarking
+### [ECG-PEFT Bench](https://github.com/krishnakoushik225/ecg-peft-benchmark) — Parameter-Efficient Medical AI Benchmark
 
 ![Stars](https://img.shields.io/github/stars/krishnakoushik225/ecg-peft-benchmark?style=flat-square\&color=9D4EDD)
 ![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/ecg-peft-benchmark?style=flat-square\&color=9D4EDD)
 
-A benchmarking framework for evaluating parameter-efficient fine-tuning methods across cardiac foundation models and ECG datasets.
+A reproducible medical AI benchmarking framework that compares **LoRA and frozen-encoder adapter fine-tuning** across Wav2Vec2, HuBERT, and ECG-FM backbones for binary ECG-segment classification.
 
-`Python` `PyTorch` `Hugging Face` `PEFT` `LoRA` `Wav2Vec2` `HuBERT`
+The pipeline applies model-aware ECG preprocessing, backbone-specific resampling, mask-aware mean pooling, consistent data splits, controlled random seeds, automated evaluation, and exact confusion-matrix reporting. By holding training conditions constant across six configurations, the benchmark isolates performance differences caused by the backbone and adaptation strategy rather than experimental variation.
+
+`Python` `PyTorch` `Hugging Face` `PEFT` `LoRA` `Wav2Vec2` `HuBERT` `ECG-FM`
 
 ---
 
-### [DocuMind](https://github.com/krishnakoushik225/DocuMind) — RAG Document Intelligence
+### [DocuMind](https://github.com/krishnakoushik225/DocuMind) — Explainable RAG Document Intelligence
 
-![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/DocuMind?style=flat-square\&color=9D4EDD)
 ![Language](https://img.shields.io/github/languages/top/krishnakoushik225/DocuMind?style=flat-square\&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/DocuMind?style=flat-square\&color=9D4EDD)
 
-A retrieval-augmented document intelligence platform that combines vector search, source-grounded generation, and multi-document question answering.
+A production-oriented explainable RAG platform that allows users to upload PDFs and receive answers grounded strictly in retrieved document content.
 
-`Python` `FastAPI` `Pinecone` `OpenAI` `RAG` `React` `TypeScript`
+DocuMind extracts and cleans PDF text, creates configurable overlapping chunks, generates OpenAI embeddings, and stores document-scoped vectors in Pinecone. Every query is filtered by document ID to prevent cross-document retrieval, and responses include the supporting chunks for inspection. The system explicitly handles empty retrieval results and uses LlamaIndex relevancy evaluation to assess answer quality without requiring a labeled dataset.
+
+`Python` `FastAPI` `Pinecone` `OpenAI` `LlamaIndex` `RAG` `React` `TypeScript`
 
 ---
 
-### [ContextFlow AI](https://github.com/krishnakoushik225/contextflow-ai) — Privacy-First Local AI
+### [ContextFlow AI](https://github.com/krishnakoushik225/contextflow-ai) — Privacy-First Local Browser Agent
 
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/contextflow-ai?style=flat-square\&color=3178C6)
 ![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/contextflow-ai?style=flat-square\&color=9D4EDD)
 
-A privacy-focused browser AI system that uses local language-model inference and dynamic tool routing without sending sensitive information to external cloud APIs.
+A privacy-first Chrome extension that brings local LLM intelligence directly into the browser without cloud inference or external API keys.
 
-`TypeScript` `React` `Chrome Manifest V3` `Ollama` `Llama` `Vite`
+The extension extracts live webpage context for grounded question answering, summarizes complete pages, and explains highlighted text through a right-click context-menu action. A Manifest V3 background service worker coordinates requests between the webpage, React popup, injected floating panel, and a locally running Ollama model, ensuring that browsing content remains on the user’s machine.
+
+`TypeScript` `React` `Chrome Manifest V3` `Ollama` `Llama 3.2` `Vite` `Local AI`
 
 ---
 
-### Additional Projects
+## Additional Projects
 
-[![APSRTC](https://img.shields.io/badge/APSRTC_Duty_Portal-View_Project-7C3AED?style=flat-square)](https://github.com/krishnakoushik225/APSRTC-Duty-Management-Portal)
-[![GenDiff](https://img.shields.io/badge/GenDiff_PEFT-View_Project-7C3AED?style=flat-square)](https://github.com/krishnakoushik225/GenDiff-PEFT-Efficient-Conditional-Diffusion-Optimization)
-[![AudioLDM](https://img.shields.io/badge/CLAP_AudioLDM-View_Project-7C3AED?style=flat-square)](https://github.com/krishnakoushik225/CLAP-Optimized-Text-to-Audio-Generation-AudioLDM-)
+### [APSRTC Duty Management Portal](https://github.com/krishnakoushik225/APSRTC-Duty-Management-Portal)
+
+A workforce-management platform designed to coordinate employee schedules and duty assignments, including concurrency-aware updates for safer shift management.
+
+### [GenDiff-PEFT](https://github.com/krishnakoushik225/GenDiff-PEFT-Efficient-Conditional-Diffusion-Optimization)
+
+A parameter-efficient conditional diffusion research project focused on reducing trainable parameters and improving training efficiency while preserving generation quality.
+
+### [CLAP-Optimized AudioLDM](https://github.com/krishnakoushik225/CLAP-Optimized-Text-to-Audio-Generation-AudioLDM-)
+
+A text-to-audio generation pipeline that uses CLAP-based semantic scoring and multi-candidate selection to improve alignment between generated audio and input prompts.
 
 ---
 
