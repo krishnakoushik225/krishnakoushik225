@@ -16,7 +16,7 @@
 
 <!-- Portfolio and resume -->
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-9D4EDD?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-9D4EDD?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnau225s-projects.vercel.app)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
 
 <br/>
@@ -25,7 +25,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/krishna-u-a40846423/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:krishnakoushikunnam1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnakoushik225)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnau225)
 
 <br/>
 
@@ -34,7 +34,7 @@
 ![Experience](https://img.shields.io/badge/AI%2FML_Experience-5%2B_Years-7C3AED?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Generative_AI_·_MLOps_·_Distributed_AI-0284C7?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Menlo_Park%2C_CA-006747?style=flat-square)
-[![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225\&style=flat-square\&color=9D4EDD\&label=Profile+Views\&abbreviated=true)](https://github.com/krishnakoushik225)
+[![Profile Views](https://komarev.com/ghpvc/?username=krishnau225\&style=flat-square\&color=9D4EDD\&label=Profile+Views\&abbreviated=true)](https://github.com/krishnau225)
 
 </div>
 
@@ -151,10 +151,10 @@ I focus on combining advanced AI research with reliable software engineering to 
 
 ## Selected AI Projects
 
-### [Helix](https://github.com/krishnakoushik225/helix) — Production-Grade AI Inference Gateway
+### [Helix](https://github.com/krishnau225/helix) — Production-Grade AI Inference Gateway
 
-![Language](https://img.shields.io/github/languages/top/krishnakoushik225/helix?style=flat-square\&color=00ADD8)
-![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/helix?style=flat-square\&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnau225/helix?style=flat-square\&color=00ADD8)
+![Last Commit](https://img.shields.io/github/last-commit/krishnau225/helix?style=flat-square\&color=9D4EDD)
 
 A production-grade LLM gateway that provides one secure interface for OpenAI, Ollama, and Anthropic models. It combines score-based provider routing, circuit-breaker fallback, pgvector semantic caching, per-tenant JWT authentication, Redis rate limiting, SSE token streaming, structured request logging, and Prometheus observability.
 
@@ -164,10 +164,10 @@ The gateway was deployed on Fly.io and validated through a cache-warmed k6 bench
 
 ---
 
-### [Multi-Agent Code Repair](https://github.com/krishnakoushik225/multi-agent-code-repair) — Autonomous Issue-to-Patch Engineering System
+### [Multi-Agent Code Repair](https://github.com/krishnau225/multi-agent-code-repair) — Autonomous Issue-to-Patch Engineering System
 
-![Language](https://img.shields.io/github/languages/top/krishnakoushik225/multi-agent-code-repair?style=flat-square\&color=3776AB)
-![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/multi-agent-code-repair?style=flat-square\&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnau225/multi-agent-code-repair?style=flat-square\&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnau225/multi-agent-code-repair?style=flat-square\&color=9D4EDD)
 
 A stateful multi-agent software-repair system that converts a GitHub issue into a validated code patch. Specialized agents research the repository, identify relevant files, plan a minimal change, generate structured search-and-replace edits, and validate the result inside an isolated Docker environment.
 
@@ -177,10 +177,10 @@ The workflow pins every run to a specific commit, grounds patches in verbatim so
 
 ---
 
-### [ResearchFlow AI](https://github.com/krishnakoushik225/langgraph-research-agent) — Self-Correcting Agentic Research Platform
+### [ResearchFlow AI](https://github.com/krishnau225/langgraph-research-agent) — Self-Correcting Agentic Research Platform
 
-![Language](https://img.shields.io/github/languages/top/krishnakoushik225/langgraph-research-agent?style=flat-square\&color=3776AB)
-![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/langgraph-research-agent?style=flat-square\&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnau225/langgraph-research-agent?style=flat-square\&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnau225/langgraph-research-agent?style=flat-square\&color=9D4EDD)
 
 A production-oriented agentic research system that decomposes complex questions, retrieves web evidence, evaluates evidence quality, and synthesizes citation-grounded answers.
 
@@ -190,10 +190,10 @@ Its LangGraph workflow coordinates Planner, Decomposer, Search, Verifier, and Sy
 
 ---
 
-### [ECG-PEFT Bench](https://github.com/krishnakoushik225/ecg-peft-benchmark) — Parameter-Efficient Medical AI Benchmark
+### [ECG-PEFT Bench](https://github.com/krishnau225/ecg-peft-benchmark) — Parameter-Efficient Medical AI Benchmark
 
-![Stars](https://img.shields.io/github/stars/krishnakoushik225/ecg-peft-benchmark?style=flat-square\&color=9D4EDD)
-![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/ecg-peft-benchmark?style=flat-square\&color=9D4EDD)
+![Stars](https://img.shields.io/github/stars/krishnau225/ecg-peft-benchmark?style=flat-square\&color=9D4EDD)
+![Last Commit](https://img.shields.io/github/last-commit/krishnau225/ecg-peft-benchmark?style=flat-square\&color=9D4EDD)
 
 A reproducible medical AI benchmarking framework that compares **LoRA and frozen-encoder adapter fine-tuning** across Wav2Vec2, HuBERT, and ECG-FM backbones for binary ECG-segment classification.
 
@@ -203,10 +203,10 @@ The pipeline applies model-aware ECG preprocessing, backbone-specific resampling
 
 ---
 
-### [DocuMind](https://github.com/krishnakoushik225/DocuMind) — Explainable RAG Document Intelligence
+### [DocuMind](https://github.com/krishnau225/DocuMind) — Explainable RAG Document Intelligence
 
-![Language](https://img.shields.io/github/languages/top/krishnakoushik225/DocuMind?style=flat-square\&color=3776AB)
-![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/DocuMind?style=flat-square\&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnau225/DocuMind?style=flat-square\&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnau225/DocuMind?style=flat-square\&color=9D4EDD)
 
 A production-oriented explainable RAG platform that allows users to upload PDFs and receive answers grounded strictly in retrieved document content.
 
@@ -216,10 +216,10 @@ DocuMind extracts and cleans PDF text, creates configurable overlapping chunks, 
 
 ---
 
-### [ContextFlow AI](https://github.com/krishnakoushik225/contextflow-ai) — Privacy-First Local Browser Agent
+### [ContextFlow AI](https://github.com/krishnau225/contextflow-ai) — Privacy-First Local Browser Agent
 
-![Language](https://img.shields.io/github/languages/top/krishnakoushik225/contextflow-ai?style=flat-square\&color=3178C6)
-![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/contextflow-ai?style=flat-square\&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnau225/contextflow-ai?style=flat-square\&color=3178C6)
+![Last Commit](https://img.shields.io/github/last-commit/krishnau225/contextflow-ai?style=flat-square\&color=9D4EDD)
 
 A privacy-first Chrome extension that brings local LLM intelligence directly into the browser without cloud inference or external API keys.
 
@@ -231,15 +231,15 @@ The extension extracts live webpage context for grounded question answering, sum
 
 ## Additional Projects
 
-### [APSRTC Duty Management Portal](https://github.com/krishnakoushik225/APSRTC-Duty-Management-Portal)
+### [APSRTC Duty Management Portal](https://github.com/krishnau225/APSRTC-Duty-Management-Portal)
 
 A workforce-management platform designed to coordinate employee schedules and duty assignments, including concurrency-aware updates for safer shift management.
 
-### [GenDiff-PEFT](https://github.com/krishnakoushik225/GenDiff-PEFT-Efficient-Conditional-Diffusion-Optimization)
+### [GenDiff-PEFT](https://github.com/krishnau225/GenDiff-PEFT-Efficient-Conditional-Diffusion-Optimization)
 
 A parameter-efficient conditional diffusion research project focused on reducing trainable parameters and improving training efficiency while preserving generation quality.
 
-### [CLAP-Optimized AudioLDM](https://github.com/krishnakoushik225/CLAP-Optimized-Text-to-Audio-Generation-AudioLDM-)
+### [CLAP-Optimized AudioLDM](https://github.com/krishnau225/CLAP-Optimized-Text-to-Audio-Generation-AudioLDM-)
 
 A text-to-audio generation pipeline that uses CLAP-based semantic scoring and multi-candidate selection to improve alignment between generated audio and input prompts.
 
@@ -305,17 +305,17 @@ A text-to-audio generation pipeline that uses CLAP-based semantic scoring and mu
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakoushik225&bg_color=0b1020&color=9D4EDD&line=9D4EDD&point=C084FC&area=true&area_color=9D4EDD&hide_border=true&title_color=9D4EDD" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishnau225&bg_color=0b1020&color=9D4EDD&line=9D4EDD&point=C084FC&area=true&area_color=9D4EDD&hide_border=true&title_color=9D4EDD" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishnakoushik225&show_icons=true&hide_border=true&theme=transparent&title_color=9D4EDD&icon_color=C084FC&text_color=94A3B8" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=krishnau225&show_icons=true&hide_border=true&theme=transparent&title_color=9D4EDD&icon_color=C084FC&text_color=94A3B8" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakoushik225&layout=compact&hide_border=true&theme=transparent&title_color=9D4EDD&text_color=94A3B8" height="165" alt="Most-used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnau225&layout=compact&hide_border=true&theme=transparent&title_color=9D4EDD&text_color=94A3B8" height="165" alt="Most-used languages" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/krishnakoushik225/krishnakoushik225/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/krishnau225/krishnau225/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -335,17 +335,3 @@ Computer Vision               AI Evaluation and Benchmarking
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:9D4EDD,100:7C3AED&height=100&section=footer&animation=fadeIn" />
-
-<div align="center">
-
-### Building scalable, efficient, and production-ready AI systems
-
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-9D4EDD?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app/resume.pdf)
-[![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:krishnakoushikunnam1@gmail.com)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225\&style=for-the-badge\&color=9D4EDD\&label=Profile+Views\&abbreviated=true)](https://github.com/krishnakoushik225)
-
-</div>
