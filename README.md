@@ -16,7 +16,7 @@
 
 <!-- Portfolio and resume -->
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-9D4EDD?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnau225s-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-9D4EDD?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
 
 <br/>
