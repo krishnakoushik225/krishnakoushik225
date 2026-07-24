@@ -294,10 +294,10 @@ A text-to-audio generation pipeline that uses CLAP-based semantic scoring and mu
 
 ## Certifications
 
-* **AWS Certified Machine Learning Engineer – Associate**
-* **AWS Certified AI Practitioner**
-* **Microsoft Certified: Azure AI Engineer Associate**
+* **AWS Certified Generative AI Developer – Professional (AIP-C01)**
 * **Databricks Certified Machine Learning Professional**
+* **Certified Kubernetes Application Developer (CKAD)**
+* **Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)**
 
 ---
 
