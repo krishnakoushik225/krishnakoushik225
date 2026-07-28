@@ -245,45 +245,6 @@ A text-to-audio generation pipeline that uses CLAP-based semantic scoring and mu
 
 ---
 
-## Professional Experience
-
-| Organization  | Position                  | Period                  | Focus                                                                                              |
-| ------------- | ------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------- |
-| **Meta**      | AI/ML Engineer            | February 2025 – Present | Foundation models, multimodal AI, distributed training, RLHF, RAG, MLOps and large-scale inference |
-| **Accenture** | Machine Learning Engineer | March 2021 – June 2024  | Predictive maintenance, computer vision, IoT analytics, data engineering, cloud AI and MLOps       |
-
----
-
-## Experience Highlights
-
-### Meta — AI/ML Engineer
-
-* Built multimodal foundation-model training pipelines using Python, PyTorch, Transformers, and distributed GPU infrastructure.
-* Developed Mixture-of-Experts architectures using CUDA, FSDP, and Megatron-LM.
-* Implemented RLHF, DPO, and preference-optimization workflows.
-* Designed petabyte-scale data pipelines using Spark, Ray, Airflow, and Python.
-* Built RAG systems using FAISS, embeddings, vector search, and transformer models.
-* Developed model-evaluation frameworks using MMLU, GPQA, HumanEval, and custom benchmarks.
-* Deployed containerized inference platforms serving large-scale global workloads.
-* Optimized inference using vLLM, TensorRT-LLM, autoscaling, and GPU-serving strategies.
-* Implemented MLOps and CI/CD using MLflow, GitHub Actions, ArgoCD, Prometheus, and Grafana.
-* Built agentic AI systems integrating RAG, workflow orchestration, tool calling, and distributed services.
-
-### Accenture — Machine Learning Engineer
-
-* Built predictive-maintenance systems using real-time IoT sensor data.
-* Developed TensorFlow and XGBoost models for industrial failure prediction.
-* Optimized model latency, cloud inference cost, and feature-engineering workflows.
-* Designed Spark, Databricks, SQL, and Airflow data pipelines.
-* Developed computer-vision inspection systems using OpenCV, PyTorch, and YOLO.
-* Implemented end-to-end MLOps pipelines with MLflow, Docker, Kubernetes, and CI/CD.
-* Built cloud-native AI platforms using AWS SageMaker, S3, Glue, Lambda, and EKS.
-* Developed Java, Spring Boot, and FastAPI prediction microservices.
-* Created digital-twin analytics using AWS IoT Core and streaming telemetry.
-* Delivered Power BI dashboards for machine health, anomaly detection, and predictive maintenance.
-
----
-
 ## Education
 
 | Degree                                                    | Institution                 |
